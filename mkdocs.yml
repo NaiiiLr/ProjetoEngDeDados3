@@ -1,0 +1,34 @@
+site_name: E-commerce Lakehouse
+site_description: Documentação técnica da engenharia de dados do e-commerce utilizando Databricks.
+site_author: Ian
+
+theme:
+  name: material
+  features:
+    - navigation.sections # Agrupa itens no menu lateral
+    - navigation.top # Botão de voltar ao topo
+    - content.code.copy # Botão de copiar nos blocos de código
+  palette:
+    # Paleta Escura (Padrão)
+    - scheme: slate
+      primary: blue
+      accent: light blue
+
+# Extensões para deixar o Markdown mais poderoso (caixas de aviso, código colorido)
+markdown_extensions:
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.highlight:
+      anchor_linenums: true
+
+# Menu de Navegação Lateral
+nav:
+  - Visão Geral: index.md
+  - Dicionário de Dados: dicionario.md
+  - Arquitetura: arquitetura.md
+  - Pipeline Medalhão:
+      - 1. Landing Zone: pipeline/01_landing.md
+      - 2. Camada Bronze: pipeline/02_bronze.md
+      - 3. Camada Silver: pipeline/03_silver.md
+      - 4. Camada Gold: pipeline/04_gold.md

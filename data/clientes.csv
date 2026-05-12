@@ -1,0 +1,11 @@
+﻿id_cliente,nome,estado,status_conta
+1,João Silva,SP,Ativo
+2,Maria Oliveira,RJ,Ativo
+3,Carlos Santos,MG,Inativo
+4,Ana Costa,BA,Ativo
+5,Pedro Alves,PR,Ativo
+6,Fernanda Lima,RS,Inativo
+7,Lucas Gomes,PE,Ativo
+8,Juliana Rocha,SC,Ativo
+9,Marcos Dias,CE,Ativo
+10,Camila Mendes,GO,Ativo

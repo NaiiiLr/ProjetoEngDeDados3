@@ -1,0 +1,11 @@
+﻿id_produto,nome,id_categoria,preco,estoque
+1,Smartphone XYZ,1,1500.0,50
+2,Notebook Pro,1,3500.0,30
+3,Camiseta Básica,2,50.0,100
+4,Calça Jeans,2,120.0,80
+5,O Senhor dos Anéis,3,60.0,40
+6,Livro Spark e Delta,3,85.0,60
+7,Sofá Retrátil,4,1200.0,10
+8,Mesa de Jantar,4,800.0,15
+9,Bola de Futebol,5,80.0,50
+10,Tênis de Corrida,5,250.0,40
