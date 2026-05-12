@@ -12,7 +12,7 @@ Este projeto implementa um pipeline de Engenharia de Dados completo para uma ope
 
 Toda a arquitetura, modelagem de dados, diagramas ER e a explicação técnica detalhada das transformações foram documentadas e publicadas utilizando o MkDocs.
 
-👉 **[Acesse a Documentação Pública do Projeto Aqui](https://naiiilr.github.io/ProjetoEngDeDados3/)**
+**[Acesse a Documentação Pública do Projeto Aqui](https://naiiilr.github.io/ProjetoEngDeDados3/)**
 
 ---
 
